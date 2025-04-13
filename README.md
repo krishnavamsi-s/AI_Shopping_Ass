@@ -1,1 +1,1 @@
-# AI_Shopping_Ass
+# AI_Shopping_Assist
